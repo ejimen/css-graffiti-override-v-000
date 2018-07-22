@@ -6,6 +6,9 @@
   display: none;
 }
 
+#slick wicked .tag-3 {
+  display: none;
+}
 
 #parent .tag-4 {
   display: none;
